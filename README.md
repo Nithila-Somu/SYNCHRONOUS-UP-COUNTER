@@ -53,9 +53,9 @@ However, the remaining flip-flops should be made ready to toggle only when all l
     endmodule
 
     
-Developed by: JEYA SHIVANI S
+Developed by: Nithila S
 
-RegisterNumber: 24010976
+RegisterNumber: 212224050025
 
 **RTL LOGIC UP COUNTER**
 
